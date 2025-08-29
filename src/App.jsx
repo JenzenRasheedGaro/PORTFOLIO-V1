@@ -1,16 +1,16 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import React, { useState } from 'react';
 import "./index.css";
-import Home from "./Pages/Home";
-import About from "./Pages/About";
+import Home from "./pages/Home";
+import About from "./pages/About";
 import AnimatedBackground from "./components/Background";
 import Navbar from "./components/Navbar";
-import Portofolio from "./Pages/Portofolio";
-import ContactPage from "./Pages/Contact";
+import Portofolio from "./pages/Portofolio";
+import ContactPage from "./pages/Contact";
 import ProjectDetails from "./components/ProjectDetail";
-import WelcomeScreen from "./Pages/WelcomeScreen";
+import WelcomeScreen from "./pages/WelcomeScreen";
 import { AnimatePresence } from 'framer-motion';
-import NotFoundPage from "./Pages/404";
+import NotFoundPage from "./pages/404";
 
 const LandingPage = ({ showWelcome, setShowWelcome }) => {
   return (

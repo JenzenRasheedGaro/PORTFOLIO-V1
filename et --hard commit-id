@@ -1,0 +1,36 @@
+[33m7929158[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m fix: use next.js build scripts
+[33m814df22[m fix: working package.json and setup
+[33m77eaf56[m Fix package.json with correct name
+[33m279e105[m fix: clean package.json
+[33m02b32b4[m first deploy setup
+[33m42ed535[m Fix package.json for Vercel
+[33m41563af[m Add vercel-build script
+[33me38ec6d[m Fix deps with legacy-peer-deps
+[33m81b91fe[m Resolved merge conflicts
+[33m92de6f8[m Initial commit
+[33md9374bf[m Add files via upload
+[33m45c0a4e[m Delete src/postcss.config.js
+[33mfd87faa[m Delete src/package.json
+[33mb90628f[m Delete src/tailwind.config.js
+[33mcf83abe[m Delete src/vite.config.js
+[33m1f69178[m Delete src/vercel.json
+[33m448bb9a[m Delete src/package-lock.json
+[33m48b683a[m Delete src/eslint.config.js
+[33m17d26e8[m Rename supabase.js to src/supabase.js
+[33mf512230[m Rename index.css to src/index.css
+[33mf01b504[m Rename eslint.config.js to src/eslint.config.js
+[33m6946254[m Rename postcss.config.js to src/postcss.config.js
+[33md1e2008[m Rename tailwind.config.js to src/tailwind.config.js
+[33m6a550c2[m Rename package-lock.json to src/package-lock.json
+[33m0b7b455[m Rename package.json to src/package.json
+[33mc075380[m Rename vercel.json to src/vercel.json
+[33m63fadf4[m Rename vite.config.js to src/vite.config.js
+[33mde6b9b9[m Rename App.jsx to src/App.jsx
+[33m088a1fa[m Rename App.certificateDisplay.tsx to src/App.certificateDisplay.tsx
+[33m51c62ee[m Rename main.jsx to src/main.jsx
+[33m3141196[m Create .gitkeep
+[33m9620db0[m Add files via upload
+[33mdead180[m Delete main.jsx
+[33m842684b[m Add files via upload
+[33mae5f29d[m Update README.md
+[33mcc6550e[m Add files via upload
